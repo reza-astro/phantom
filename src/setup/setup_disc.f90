@@ -485,7 +485,7 @@ subroutine set_default_options()!id)
  discstrat     = 0
  temp_mid0     = 24.
  temp_atm0     = 63.
- z0_ref        = 9.
+ z0_ref        = 90.
 
  !--simulation time
  deltat  = 0.1
